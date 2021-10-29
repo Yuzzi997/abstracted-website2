@@ -2,7 +2,7 @@ nav {
     width: 100%;
     height: 70px;
     background: #ECECEC;
-    padding: 10px 20px;
+    padding:10px;
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
@@ -10,7 +10,7 @@ nav {
 
 #NYC {
     height: 100%;
-    width: 140px;
+    width: 30%;
     background: pink;
     margin: 0;
 }
@@ -23,12 +23,12 @@ nav {
 
 #threeoneone {
     height: 100%;
-    width: 140px;
+    width: 15%;
     background: pink;
 }
 
 #search {
     height: 100%;
-    width: 140px;
+    width: 30%;
     background: pink;
 }
